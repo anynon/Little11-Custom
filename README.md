@@ -22,5 +22,5 @@ iPhone 6S - iPhone X running iOS 13 or later
 * Reduce Rows
 
 # Credit
-Thank you to Ryan Nair whose tweak Little11 was used and modified. Source - https://github.com/binksxela/Little11
+Thank you to Ryan Nair whose tweak Little11 was used and modified. Source - https://github.com/ryannair05/Little11
 
