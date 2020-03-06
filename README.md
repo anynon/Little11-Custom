@@ -1,5 +1,6 @@
 # Little11 Custom
 
+A custom version of Little11
 Simulate your older iPhone as an iPhone X by enabling iPhone X fluid gestures.
 
 ## Compatibility
